@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material.dart';
 
 class Contador extends StatefulWidget {
   @override
